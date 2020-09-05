@@ -1,0 +1,4 @@
+﻿  NTP PROTOCOL.cpp
+F:\6 семестр\РИС\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(51,17): warning C4307: "*": переполнение целой константы со знаком
+F:\6 семестр\РИС\NTP PROTOCOL\NTP PROTOCOL\NTP PROTOCOL.cpp(72,21): warning C4309: =: усечение константного значения
+  NTP PROTOCOL.vcxproj -> F:\6 семестр\РИС\NTP PROTOCOL\Debug\NTP PROTOCOL.exe

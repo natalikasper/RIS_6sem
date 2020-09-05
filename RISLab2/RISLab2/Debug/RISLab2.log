@@ -1,0 +1,5 @@
+﻿  RISLab2.cpp
+F:\6 семестр\РИС\лабораторные\RISLab2\RISLab2\RISLab2.cpp(219,6): warning C4101: ibuf: неиспользованная локальная переменная
+F:\6 семестр\РИС\лабораторные\RISLab2\RISLab2\RISLab2.cpp(263,5): warning C4101: ibuf: неиспользованная локальная переменная
+F:\6 семестр\РИС\лабораторные\RISLab2\RISLab2\RISLab2.cpp(307,6): warning C4101: ibuf: неиспользованная локальная переменная
+  RISLab2.vcxproj -> F:\6 семестр\РИС\лабораторные\RISLab2\Debug\RISLab2.exe
